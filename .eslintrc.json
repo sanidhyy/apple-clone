@@ -21,25 +21,27 @@
         "config": "tailwind.config.js",
         "whitelist": ["text-gray"]
       }
-    ]
-  },
-  "import/order": [
-    "error",
-    {
-      "groups": ["builtin", "external", "internal"],
-      "pathGroups": [
-        {
-          "pattern": "react",
-          "group": "external",
-          "position": "before"
+    ],
+
+    "import/order": [
+      "error",
+      {
+        "groups": ["builtin", "external", "internal", ["parent", "sibling"]],
+        "pathGroups": [
+          {
+            "pattern": "react",
+            "group": "external",
+            "position": "before"
+          }
+        ],
+        "pathGroupsExcludedImportTypes": ["react"],
+        "newlines-between": "always",
+        "alphabetize": {
+          "order": "asc",
+          "caseInsensitive": true
         }
-      ],
-      "pathGroupsExcludedImportTypes": ["react"],
-      "newlines-between": "always",
-      "alphabetize": {
-        "order": "asc",
-        "caseInsensitive": true
       }
-    }
-  ]
+    ],
+    "no-unused-vars": "off"
+  }
 }
