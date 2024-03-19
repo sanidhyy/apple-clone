@@ -41,7 +41,7 @@ const ModelView = ({
 
       <group
         ref={groupRef}
-        name={`${index === 1} ? 'small' : 'large`}
+        name={index === 1 ? "small" : "large"}
         position={[0, 0, 0]}
       >
         <Suspense fallback={<Loader />}>
