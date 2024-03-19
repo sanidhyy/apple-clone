@@ -6,8 +6,9 @@ Source: https://sketchfab.com/3d-models/apple-iphone-15-pro-max-black-df17520841
 Title: Apple iPhone 15 Pro Max Black
 */
 
-import { useGLTF, useTexture } from "@react-three/drei";
 import React, { useEffect } from "react";
+
+import { useGLTF, useTexture } from "@react-three/drei";
 import * as THREE from "three";
 
 const IPhone = (props) => {
@@ -16,7 +17,7 @@ const IPhone = (props) => {
   const texture = useTexture(props.item.img);
 
   useEffect(() => {
-    Object.entries(materials).map((material) => {
+    Object.entries(materials).forEach((material) => {
       // these are the material names that can't be changed color
       if (
         material[0] !== "zFdeDaGNRwzccye" &&
