@@ -5,6 +5,7 @@
     "plugin:tailwindcss/recommended",
     "prettier"
   ],
+  "plugins": ["@react-three"],
   "rules": {
     "max-len": [2, 250],
     "no-multiple-empty-lines": [
