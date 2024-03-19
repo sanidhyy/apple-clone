@@ -33,7 +33,7 @@
       "warn",
       {
         "config": "tailwind.config.js",
-        "whitelist": ["text-gray", "bg-zinc", "g_grow"]
+        "whitelist": ["text-gray", "bg-zinc", "g_grow", "g_text"]
       }
     ],
 
