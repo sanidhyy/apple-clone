@@ -1,12 +1,25 @@
 {
   "extends": [
-    "standard",
+    "eslint:recommended",
     "plugin:react/recommended",
+    "plugin:react/jsx-runtime",
+    "plugin:react-hooks/recommended",
+    "standard",
     "plugin:tailwindcss/recommended",
     "prettier"
   ],
-  "plugins": ["@react-three"],
+  "ignorePatterns": ["dist", ".eslintrc.json"],
+  "parserOptions": { "ecmaVersion": "latest", "sourceType": "module" },
+  "settings": { "react": { "version": "18.2" } },
+  "plugins": ["react-refresh"],
   "rules": {
+    "react/no-unknown-property": "off",
+    "react/prop-types": "off",
+    "react/jsx-no-target-blank": "off",
+    "react-refresh/only-export-components": [
+      "warn",
+      { "allowConstantExport": true }
+    ],
     "max-len": [2, 250],
     "no-multiple-empty-lines": [
       "error",
@@ -20,7 +33,7 @@
       "warn",
       {
         "config": "tailwind.config.js",
-        "whitelist": ["text-gray", "bg-zinc"]
+        "whitelist": ["text-gray", "bg-zinc", "g_grow"]
       }
     ],
 
