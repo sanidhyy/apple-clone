@@ -35,7 +35,7 @@ const Features = () => {
       },
       {
         scrub: 5.5,
-      }
+      },
     );
 
     animateWithGsap(".g_text", {
