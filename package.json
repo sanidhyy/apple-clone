@@ -1,7 +1,7 @@
 {
   "name": "apple-clone",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +9,59 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "author": {
+    "name": "Sanidhya Kumar Verma",
+    "email": "sanidhya.verma12345@gmail.com",
+    "url": "https://github.com/sanidhyy"
+  },
+  "description": "Modern iPhone 15 inspired website using Three.js and GSAP animations.",
+  "keywords": [
+    "reactjs",
+    "framer-motion",
+    "netlify",
+    "react",
+    "modern-ui",
+    "modern-ux",
+    "apple-clone",
+    "apple-website",
+    "three.js",
+    "gsap",
+    "gsap-animations",
+    "dark-theme",
+    "react-themes",
+    "postcss",
+    "prettier",
+    "react-dom",
+    "tailwindcss",
+    "tailwindcss-animate",
+    "ui/ux",
+    "js",
+    "javascript",
+    "typescript",
+    "eslint",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanidhyy/apple-clone.git"
+  },
+  "homepage": "https://github.com/sanidhyy/apple-clone#readme",
+  "bugs": {
+    "url": "https://github.com/sanidhyy/apple-clone/issues",
+    "email": "sanidhya.verma12345@gmail.com"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/sanidhy"
+    },
+    {
+      "type": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/sanidhy"
+    }
+  ],
   "dependencies": {
     "@gsap/react": "^2.1.0",
     "@react-three/drei": "^9.102.6",
