@@ -3,6 +3,7 @@ import React from "react";
 import Features from "./components/Features";
 import Hero from "./components/Hero";
 import Highlights from "./components/Highlights";
+import HowItWorks from "./components/HowItWorks";
 import Model from "./components/Model";
 import Navbar from "./components/Navbar";
 
@@ -14,6 +15,7 @@ const App = () => {
       <Highlights />
       <Model />
       <Features />
+      <HowItWorks />
     </main>
   );
 };

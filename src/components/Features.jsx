@@ -109,9 +109,7 @@ const Features = () => {
                     Mars.
                   </p>
                 </div>
-              </div>
 
-              <div className="feature-text-container">
                 <div className="flex-center flex-1">
                   <p className="feature-text g_text">
                     Titanium has one of the best strength-to-weight ratios of
