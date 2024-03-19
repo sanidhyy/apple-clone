@@ -19,7 +19,7 @@
       "warn",
       {
         "config": "tailwind.config.js",
-        "whitelist": ["text-gray"]
+        "whitelist": ["text-gray", "bg-zinc"]
       }
     ],
 
