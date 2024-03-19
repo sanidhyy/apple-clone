@@ -8,6 +8,7 @@ import chip from "/assets/images/chip.jpeg";
 import explore1 from "/assets/images/explore1.jpg";
 import explore2 from "/assets/images/explore2.jpg";
 import frame from "/assets/images/frame.png";
+import github from "/assets/images/github.svg";
 import hero from "/assets/images/hero.jpeg";
 import pause from "/assets/images/pause.svg";
 import play from "/assets/images/play.svg";
@@ -54,3 +55,5 @@ export const explore1Img = explore1;
 export const explore2Img = explore2;
 export const chipImg = chip;
 export const frameImg = frame;
+
+export const githubImg = github;

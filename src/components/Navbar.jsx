@@ -1,7 +1,7 @@
 import React from "react";
 
-import { appleImg, bagImg, searchImg } from "../assets";
-import { navLists } from "../constants";
+import { appleImg, bagImg, githubImg, searchImg } from "../assets";
+import { navLists, sourceCode } from "../constants";
 
 const Navbar = () => {
   return (
@@ -23,6 +23,9 @@ const Navbar = () => {
         <div className="flex items-baseline gap-7 max-sm:flex-1 max-sm:justify-end">
           <img src={searchImg} alt="Search" width={18} height={18} />
           <img src={bagImg} alt="Bag" width={18} height={18} />
+          <a href={sourceCode} target="_blank" rel="noreferrer noopener">
+            <img src={githubImg} alt="Bag" width={18} height={18} />
+          </a>
         </div>
       </nav>
     </header>
