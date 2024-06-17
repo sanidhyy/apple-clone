@@ -64,7 +64,7 @@
   ],
   "dependencies": {
     "@gsap/react": "^2.1.1",
-    "@react-three/drei": "^9.106.0",
+    "@react-three/drei": "^9.107.0",
     "gsap": "^3.12.5",
     "react": "^18.2.0",
     "react-dom": "^18.3.1",
