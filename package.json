@@ -66,13 +66,13 @@
     "@gsap/react": "^2.1.1",
     "@react-three/drei": "^9.119.0",
     "gsap": "^3.12.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.3.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "three": "^0.171.0"
   },
   "devDependencies": {
     "@react-three/eslint-plugin": "^0.1.1",
-    "@types/react": "^18.3.12",
+    "@types/react": "^19.0.1",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.20",
