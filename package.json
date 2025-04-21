@@ -82,7 +82,7 @@
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-refresh": "^0.4.19",
+    "eslint-plugin-react-refresh": "^0.4.20",
     "eslint-plugin-tailwindcss": "^3.18.0",
     "postcss": "^8.5.3",
     "prettier": "^3.5.3",
