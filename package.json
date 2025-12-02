@@ -86,7 +86,7 @@
     "eslint-plugin-react-refresh": "^0.4.24",
     "eslint-plugin-tailwindcss": "^3.18.2",
     "postcss": "^8.5.6",
-    "prettier": "^3.6.2",
+    "prettier": "^3.7.3",
     "tailwindcss": "^3.4.17",
     "vite": "^7.2.4"
   }
