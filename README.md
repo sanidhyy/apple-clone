@@ -43,6 +43,8 @@
 
 Here is the folder structure of this app.
 
+<!--- FOLDER_STRUCTURE_START --->
+
 ```bash
 apple-clone/
   |- public/
@@ -86,6 +88,8 @@ apple-clone/
   |- vite.config.js
 ```
 
+<!--- FOLDER_STRUCTURE_END --->
+
 <br />
 
 ## :toolbox: Getting Started
@@ -123,6 +127,8 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 Useful resources and dependencies that are used in Apple Clone.
 
+<!--- DEPENDENCIES_START --->
+
 - [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.0
 - [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.102.6
 - [gsap](https://www.npmjs.com/package/gsap): ^3.12.5
@@ -146,6 +152,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [prettier](https://www.npmjs.com/package/prettier): ^3.2.5
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
 - [vite](https://www.npmjs.com/package/vite): ^5.1.6
+<!--- DEPENDENCIES_END --->
 
 ## :coffee: Buy Me a Coffee
 
