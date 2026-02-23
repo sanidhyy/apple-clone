@@ -44,50 +44,41 @@
 Here is the folder structure of this app.
 
 <!--- FOLDER_STRUCTURE_START --->
-
 ```bash
 apple-clone/
   |- public/
-    |-- assets/
-    |-- models/
-    |-- apple-icon.png
-    |-- favicon.ico
-    |-- favicon1.png
-    |-- favicon2.png
   |- src/
     |-- assets/
-        |--- index.js
     |-- components/
-        |--- Features.jsx
-        |--- Footer.jsx
-        |--- Hero.jsx
-        |--- Highlights.jsx
-        |--- HowItWorks.jsx
-        |--- IPhone.jsx
-        |--- Lights.jsx
-        |--- Loader.jsx
-        |--- Model.jsx
-        |--- ModelView.jsx
-        |--- Navbar.jsx
-        |--- VideoCarousel.jsx
+      |--- Features.jsx
+      |--- Footer.jsx
+      |--- Hero.jsx
+      |--- Highlights.jsx
+      |--- HowItWorks.jsx
+      |--- IPhone.jsx
+      |--- Lights.jsx
+      |--- Loader.jsx
+      |--- Model.jsx
+      |--- ModelView.jsx
+      |--- Navbar.jsx
+      |--- VideoCarousel.jsx
     |-- constants/
-        |--- index.js
+      |--- index.js
     |-- utils/
-        |--- animations.js
-    |-- App.css
+      |--- animations.js
     |-- App.jsx
     |-- index.css
     |-- main.jsx
   |- .eslintrc.json
   |- .gitignore
   |- index.html
+  |- netlify.toml
   |- package-lock.json
   |- package.json
   |- postcss.config.js
   |- tailwind.config.js
   |- vite.config.js
 ```
-
 <!--- FOLDER_STRUCTURE_END --->
 
 <br />
@@ -128,30 +119,31 @@ You might encounter some bugs while using this app. You are more than welcome to
 Useful resources and dependencies that are used in Apple Clone.
 
 <!--- DEPENDENCIES_START --->
-
-- [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.0
-- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.102.6
-- [gsap](https://www.npmjs.com/package/gsap): ^3.12.5
-- [react](https://www.npmjs.com/package/react): ^18.2.0
-- [react-dom](https://www.npmjs.com/package/react-dom): ^18.2.0
-- [three](https://www.npmjs.com/package/three): ^0.162.0
-- [@react-three/eslint-plugin](https://www.npmjs.com/package/@react-three/eslint-plugin): ^0.1.1
-- [@types/react](https://www.npmjs.com/package/@types/react): ^18.2.67
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18.2.21
-- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^4.2.1
-- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.18
-- [eslint](https://www.npmjs.com/package/eslint): ^8.57.0
-- [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^9.1.0
+- [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.2
+- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.121.5
+- [@react-three/eslint-plugin](https://www.npmjs.com/package/@react-three/eslint-plugin): ^0.1.2
+- [@types/react](https://www.npmjs.com/package/@types/react): ^18.3.12
+- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18.3.1
+- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^5.1.3
+- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.24
+- [eslint](https://www.npmjs.com/package/eslint): ^9.39.2
+- [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^10.1.8
 - [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard): ^17.1.0
-- [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import): ^2.29.1
-- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.34.0
-- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^4.6.0
-- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.4.5
-- [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^3.15.1
-- [postcss](https://www.npmjs.com/package/postcss): ^8.4.36
-- [prettier](https://www.npmjs.com/package/prettier): ^3.2.5
-- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
-- [vite](https://www.npmjs.com/package/vite): ^5.1.6
+- [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import): ^2.32.0
+- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.37.5
+- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^7.0.1
+- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.0
+- [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^3.18.2
+- [gsap](https://www.npmjs.com/package/gsap): ^3.14.2
+- [postcss](https://www.npmjs.com/package/postcss): ^8.5.6
+- [prettier](https://www.npmjs.com/package/prettier): ^3.8.1
+- [react](https://www.npmjs.com/package/react): ^18.2.0
+- [react-dom](https://www.npmjs.com/package/react-dom): ^18.3.1
+- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.17
+- [three](https://www.npmjs.com/package/three): ^0.182.0
+- [three-stdlib](https://www.npmjs.com/package/three-stdlib): ^2.36.1
+- [vite](https://www.npmjs.com/package/vite): ^7.3.1
+
 <!--- DEPENDENCIES_END --->
 
 ## :coffee: Buy Me a Coffee
