@@ -120,7 +120,7 @@ Useful resources and dependencies that are used in Apple Clone.
 
 <!--- DEPENDENCIES_START --->
 - [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.2
-- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.121.5
+- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^10.7.7
 - [@react-three/eslint-plugin](https://www.npmjs.com/package/@react-three/eslint-plugin): ^0.1.2
 - [@types/react](https://www.npmjs.com/package/@types/react): ^18.3.12
 - [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18.3.1
