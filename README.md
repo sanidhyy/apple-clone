@@ -71,9 +71,9 @@ apple-clone/
     |-- main.jsx
   |- .eslintrc.json
   |- .gitignore
+  |- bun.lock
   |- index.html
   |- netlify.toml
-  |- package-lock.json
   |- package.json
   |- postcss.config.js
   |- tailwind.config.js
@@ -132,7 +132,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import): ^2.32.0
 - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.37.5
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^7.0.1
-- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.0
+- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.2
 - [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^3.18.2
 - [gsap](https://www.npmjs.com/package/gsap): ^3.14.2
 - [postcss](https://www.npmjs.com/package/postcss): ^8.5.6
@@ -140,7 +140,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [react](https://www.npmjs.com/package/react): ^18.2.0
 - [react-dom](https://www.npmjs.com/package/react-dom): ^18.3.1
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.17
-- [three](https://www.npmjs.com/package/three): ^0.182.0
+- [three](https://www.npmjs.com/package/three): ^0.183.1
 - [three-stdlib](https://www.npmjs.com/package/three-stdlib): ^2.36.1
 - [vite](https://www.npmjs.com/package/vite): ^7.3.1
 
