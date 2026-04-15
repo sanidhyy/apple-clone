@@ -126,7 +126,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [@types/react](https://www.npmjs.com/package/@types/react): ^19.2.14
 - [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.2.3
 - [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^6.0.1
-- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.27
+- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.5.0
 - [eslint](https://www.npmjs.com/package/eslint): ^10.2.0
 - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^10.1.8
 - [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard): ^17.1.0
