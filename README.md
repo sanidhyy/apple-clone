@@ -132,7 +132,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard): ^17.1.0
 - [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import): ^2.32.0
 - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.37.5
-- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^7.0.1
+- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^7.1.1
 - [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.2
 - [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^3.18.2
 - [gsap](https://www.npmjs.com/package/gsap): ^3.15.0
