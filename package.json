@@ -68,7 +68,7 @@
     "@react-three/fiber": "^9.6.1",
     "gsap": "^3.15.0",
     "react": "^19.2.7",
-    "react-dom": "^19.2.6",
+    "react-dom": "^19.2.7",
     "three": "^0.184.0",
     "three-stdlib": "^2.36.1"
   },
