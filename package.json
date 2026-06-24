@@ -76,7 +76,7 @@
     "@react-three/eslint-plugin": "^0.1.2",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
-    "@vitejs/plugin-react": "^6.0.2",
+    "@vitejs/plugin-react": "^6.0.3",
     "autoprefixer": "^10.5.1",
     "eslint": "^10.5.0",
     "eslint-config-prettier": "^10.1.8",
