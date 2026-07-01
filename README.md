@@ -126,7 +126,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [@types/react](https://www.npmjs.com/package/@types/react): ^19.2.17
 - [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.2.3
 - [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^6.0.3
-- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.5.1
+- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.5.2
 - [eslint](https://www.npmjs.com/package/eslint): ^10.5.0
 - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^10.1.8
 - [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard): ^17.1.0
@@ -143,7 +143,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.17
 - [three](https://www.npmjs.com/package/three): ^0.184.0
 - [three-stdlib](https://www.npmjs.com/package/three-stdlib): ^2.36.1
-- [vite](https://www.npmjs.com/package/vite): ^8.1.0
+- [vite](https://www.npmjs.com/package/vite): ^8.1.2
 
 <!--- DEPENDENCIES_END --->
 
