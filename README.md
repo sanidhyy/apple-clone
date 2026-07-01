@@ -134,14 +134,14 @@ Useful resources and dependencies that are used in Apple Clone.
 - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.37.5
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^7.1.1
 - [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.3
-- [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^4.0.3
+- [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^4.0.5
 - [gsap](https://www.npmjs.com/package/gsap): ^3.15.0
 - [postcss](https://www.npmjs.com/package/postcss): ^8.5.15
 - [prettier](https://www.npmjs.com/package/prettier): ^3.8.4
 - [react](https://www.npmjs.com/package/react): ^19.2.7
 - [react-dom](https://www.npmjs.com/package/react-dom): ^19.2.7
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.17
-- [three](https://www.npmjs.com/package/three): ^0.184.0
+- [three](https://www.npmjs.com/package/three): ^0.185.0
 - [three-stdlib](https://www.npmjs.com/package/three-stdlib): ^2.36.1
 - [vite](https://www.npmjs.com/package/vite): ^8.1.2
 
