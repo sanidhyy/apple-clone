@@ -27,7 +27,7 @@
         "eslint-plugin-react": "^7.37.5",
         "eslint-plugin-react-hooks": "^7.1.1",
         "eslint-plugin-react-refresh": "^0.5.3",
-        "eslint-plugin-tailwindcss": "^4.0.3",
+        "eslint-plugin-tailwindcss": "^4.0.5",
         "postcss": "^8.5.15",
         "prettier": "^3.8.4",
         "tailwindcss": "^3.4.17",
@@ -414,7 +414,7 @@
 
     "eslint-plugin-react-refresh": ["eslint-plugin-react-refresh@0.5.3", "", { "peerDependencies": { "eslint": "^9 || ^10" } }, "sha512-5EMmLCV98Pi4o/f/3DP/v/tNqLHMIc9I8LKClNDWhZ9JTho89/kQcitCXQBMG7sAfVRK0Ie3T2EDOzp1YXYiVA=="],
 
-    "eslint-plugin-tailwindcss": ["eslint-plugin-tailwindcss@4.0.3", "", { "dependencies": { "@typescript-eslint/utils": "^8.37.0", "postcss": "^8.4.4", "postcss-nested": "^7.0.2", "synckit": "^0.11.11", "tailwind-api-utils": "^1.0.3" }, "peerDependencies": { "tailwindcss": "^4.0.0" } }, "sha512-JSirGfeufS4m6PDV+pflwOPqU3CG3y39xRt5JhRjPrbRagjFbbTcyEjfiClU6aWTQ18HFhMItiBTUWqbjrGoOg=="],
+    "eslint-plugin-tailwindcss": ["eslint-plugin-tailwindcss@4.0.5", "", { "dependencies": { "@typescript-eslint/utils": "^8.37.0", "postcss": "^8.4.4", "postcss-nested": "^7.0.2", "synckit": "^0.11.11", "tailwind-api-utils": "^1.0.3" }, "peerDependencies": { "eslint": "^9.0.0 || ^10.0.0", "tailwindcss": "^4.0.0" } }, "sha512-/Jcz7PXz4Req1ilizJBdDqrtEDDIdIhy2z1WtuPpdnKuicu5wHr07R+sxTYqPptGKLKe+CFJ5lJMyisBgSkObg=="],
 
     "eslint-scope": ["eslint-scope@9.1.2", "", { "dependencies": { "@types/esrecurse": "^4.3.1", "@types/estree": "^1.0.8", "esrecurse": "^4.3.0", "estraverse": "^5.2.0" } }, "sha512-xS90H51cKw0jltxmvmHy2Iai1LIqrfbw57b79w/J7MfvDfkIkFZ+kj6zC3BjtUwh150HsSSdxXZcsuv72miDFQ=="],
 
