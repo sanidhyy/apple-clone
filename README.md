@@ -143,7 +143,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.17
 - [three](https://www.npmjs.com/package/three): ^0.185.1
 - [three-stdlib](https://www.npmjs.com/package/three-stdlib): ^2.36.1
-- [vite](https://www.npmjs.com/package/vite): ^8.1.3
+- [vite](https://www.npmjs.com/package/vite): ^8.1.4
 
 <!--- DEPENDENCIES_END --->
 
