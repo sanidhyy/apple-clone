@@ -136,7 +136,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.3
 - [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^4.2.0
 - [gsap](https://www.npmjs.com/package/gsap): ^3.15.0
-- [postcss](https://www.npmjs.com/package/postcss): ^8.5.19
+- [postcss](https://www.npmjs.com/package/postcss): ^8.5.22
 - [prettier](https://www.npmjs.com/package/prettier): ^3.9.6
 - [react](https://www.npmjs.com/package/react): ^19.2.7
 - [react-dom](https://www.npmjs.com/package/react-dom): ^19.2.7
