@@ -134,14 +134,14 @@ Useful resources and dependencies that are used in Apple Clone.
 - [@types/react](https://www.npmjs.com/package/@types/react): ^19.2.18
 - [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.2.7
 - [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^6.1.1
-- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.5.4
+- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.5.5
 - [eslint](https://www.npmjs.com/package/eslint): ^10.9.1
 - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^10.1.8
 - [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard): ^17.1.0
 - [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import): ^2.32.0
 - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.37.5
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^7.1.1
-- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.5
+- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.6
 - [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^4.4.0
 - [gsap](https://www.npmjs.com/package/gsap): ^3.15.0
 - [postcss](https://www.npmjs.com/package/postcss): ^8.5.28
