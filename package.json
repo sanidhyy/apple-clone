@@ -68,14 +68,14 @@
     "@react-three/fiber": "^9.7.0",
     "gsap": "^3.15.0",
     "react": "^19.3.0",
-    "react-dom": "^19.2.8",
+    "react-dom": "^19.3.0",
     "three": "^0.186.0",
     "three-stdlib": "^2.36.1"
   },
   "devDependencies": {
     "@react-three/eslint-plugin": "^0.1.2",
     "@types/react": "^19.3.0",
-    "@types/react-dom": "^19.2.7",
+    "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "^6.1.1",
     "autoprefixer": "^10.6.0",
     "eslint": "^10.10.0",
