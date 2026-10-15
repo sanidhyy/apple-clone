@@ -133,7 +133,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber): ^9.8.1
 - [@types/react](https://www.npmjs.com/package/@types/react): ^19.3.0
 - [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.3.0
-- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^6.1.1
+- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^6.1.2
 - [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.6.1
 - [eslint](https://www.npmjs.com/package/eslint): ^10.12.0
 - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^10.1.8
