@@ -146,7 +146,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [gsap](https://www.npmjs.com/package/gsap): ^3.15.0
 - [postcss](https://www.npmjs.com/package/postcss): ^8.5.30
 - [prettier](https://www.npmjs.com/package/prettier): ^3.9.10
-- [react](https://www.npmjs.com/package/react): ^19.3.0
+- [react](https://www.npmjs.com/package/react): ^19.3.1
 - [react-dom](https://www.npmjs.com/package/react-dom): ^19.3.1
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.17
 - [three](https://www.npmjs.com/package/three): ^0.186.1
