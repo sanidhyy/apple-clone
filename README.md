@@ -147,7 +147,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [postcss](https://www.npmjs.com/package/postcss): ^8.5.30
 - [prettier](https://www.npmjs.com/package/prettier): ^3.9.10
 - [react](https://www.npmjs.com/package/react): ^19.3.0
-- [react-dom](https://www.npmjs.com/package/react-dom): ^19.3.0
+- [react-dom](https://www.npmjs.com/package/react-dom): ^19.3.1
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.17
 - [three](https://www.npmjs.com/package/three): ^0.186.1
 - [three-stdlib](https://www.npmjs.com/package/three-stdlib): ^2.36.1
