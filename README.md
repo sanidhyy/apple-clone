@@ -133,7 +133,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber): ^9.8.2
 - [@types/react](https://www.npmjs.com/package/@types/react): ^19.3.0
 - [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^19.3.0
-- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^6.1.2
+- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^6.2.1
 - [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.6.2
 - [eslint](https://www.npmjs.com/package/eslint): ^10.14.0
 - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^10.1.8
@@ -143,7 +143,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^7.1.1
 - [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.7
 - [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^4.4.0
-- [gsap](https://www.npmjs.com/package/gsap): ^3.15.0
+- [gsap](https://www.npmjs.com/package/gsap): ^3.15.1
 - [postcss](https://www.npmjs.com/package/postcss): ^8.5.32
 - [prettier](https://www.npmjs.com/package/prettier): ^3.9.10
 - [react](https://www.npmjs.com/package/react): ^19.3.1
@@ -151,7 +151,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.17
 - [three](https://www.npmjs.com/package/three): ^0.187.0
 - [three-stdlib](https://www.npmjs.com/package/three-stdlib): ^2.36.1
-- [vite](https://www.npmjs.com/package/vite): ^8.3.5
+- [vite](https://www.npmjs.com/package/vite): ^8.3.6
 
 <!--- DEPENDENCIES_END --->
 
